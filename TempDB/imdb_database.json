@@ -1,0 +1,8 @@
+{
+  "imdb_id": "string",
+  "popularity": "string",
+  "director": "string",
+  "genere": "string",
+  "imdb_score": "string",
+  "name": "string"
+}
